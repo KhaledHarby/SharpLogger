@@ -1,0 +1,12 @@
+C:\Users\khaled.harby\documents\visual studio 2015\Projects\SharpLogger\Test\bin\Debug\Test.exe.config
+C:\Users\khaled.harby\documents\visual studio 2015\Projects\SharpLogger\Test\bin\Debug\Test.exe
+C:\Users\khaled.harby\documents\visual studio 2015\Projects\SharpLogger\Test\bin\Debug\Test.pdb
+C:\Users\khaled.harby\documents\visual studio 2015\Projects\SharpLogger\Test\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\khaled.harby\documents\visual studio 2015\Projects\SharpLogger\Test\bin\Debug\MySql.Data.dll
+C:\Users\khaled.harby\documents\visual studio 2015\Projects\SharpLogger\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\khaled.harby\documents\visual studio 2015\Projects\SharpLogger\Test\obj\Debug\Test.exe
+C:\Users\khaled.harby\documents\visual studio 2015\Projects\SharpLogger\Test\obj\Debug\Test.pdb
+C:\Users\khaled.harby\documents\visual studio 2015\Projects\SharpLogger\Test\bin\Debug\x86\sqlite3.dll
+C:\Users\khaled.harby\documents\visual studio 2015\Projects\SharpLogger\Test\bin\Debug\x64\sqlite3.dll
+C:\Users\khaled.harby\Documents\Visual Studio 2015\Projects\SharpLogger\Test\bin\Debug\Sharp.dll
+C:\Users\khaled.harby\Documents\Visual Studio 2015\Projects\SharpLogger\Test\bin\Debug\Sharp.pdb

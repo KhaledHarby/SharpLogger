@@ -1,0 +1,13 @@
+﻿create table SharpLogger
+                                (
+                                  Id int not null primary key, 
+                                   Message varchar2(4000) null, 
+                                   DateTime date null, 
+                                   Log_Level varchar2(10) null, 
+                                   CallingClass varchar2(500) NULL, 
+                                   CallingMethod varchar2(500) NULL ,
+                                   LineNumber    nvarchar2(100) null ,
+                                  DomainName    varchar2(100) null ,
+                                  UserName    varchar2(100) null
+                                );
+                                create sequence seq_log nocache;

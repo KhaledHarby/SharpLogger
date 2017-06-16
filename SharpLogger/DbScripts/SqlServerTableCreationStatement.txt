@@ -1,0 +1,16 @@
+﻿
+CREATE TABLE [dbo].[SharpLogger](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Message] [nvarchar](4000) NULL,
+	[DateTime] [datetime] NULL,
+	[Log_Level] [nvarchar](10) NULL,
+	[CallingClass] [nvarchar](500) NULL,
+	[CallingMethod] [nvarchar](500) NULL,
+	[LineNumber] [nvarchar](100) NULL,
+	[DomainName] [nvarchar](100) NULL,
+	[UserName] [nvarchar](100) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
