@@ -6,9 +6,9 @@
    
    
 ## Register Database Logger 
-   SharpLogger.LoggerHandlerManager.RegisterLogger(new SharpDbLogger(DatabaseType.SqlServer, "SqlServerConnectionString"));
-   SharpLogger.LoggerHandlerManager.RegisterLogger(new SharpDbLogger(DatabaseType.MySql, "MySqlConnectionString"));
-   SharpLogger.LoggerHandlerManager.RegisterLogger(new SharpDbLogger(DatabaseType.Oracle, "OracleConnectionString"));
+   SharpLogger.LoggerHandlerManager.RegisterLogger(new SharpDbLogger(DatabaseType.SqlServer, "SqlServerConnectionString")); <br />
+   SharpLogger.LoggerHandlerManager.RegisterLogger(new SharpDbLogger(DatabaseType.MySql, "MySqlConnectionString")); <br />
+   SharpLogger.LoggerHandlerManager.RegisterLogger(new SharpDbLogger(DatabaseType.Oracle, "OracleConnectionString")); <br />
    
    
    
