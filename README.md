@@ -10,7 +10,7 @@
    SharpLogger.LoggerHandlerManager.RegisterLogger(new SharpDbLogger(DatabaseType.MySql, "MySqlConnectionString")); <br />
    SharpLogger.LoggerHandlerManager.RegisterLogger(new SharpDbLogger(DatabaseType.Oracle, "OracleConnectionString")); <br />
    
-   
+    
    
 ## Register Email Logger
 
